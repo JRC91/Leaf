@@ -1,0 +1,19 @@
+{
+  "name": "leaf",
+  "version": "1.0.0",
+  "description": "maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JRC91/Leaf.git"
+  },
+  "author": "JC91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRC91/Leaf/issues"
+  },
+  "homepage": "https://github.com/JRC91/Leaf#readme"
+}
